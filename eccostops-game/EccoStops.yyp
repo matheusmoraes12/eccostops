@@ -19,12 +19,13 @@
   },
   "name":"EccoStops",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"fase1","path":"rooms/fase1/fase1.yy",},},
+    {"id":{"name":"landscape","path":"sprites/landscape/landscape.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"fase1","path":"rooms/fase1/fase1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

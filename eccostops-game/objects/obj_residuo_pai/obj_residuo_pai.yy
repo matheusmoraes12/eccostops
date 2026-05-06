@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_maca",
-  "eventList":[],
+  "%Name":"obj_residuo_pai",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_maca",
+  "name":"obj_residuo_pai",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_residuos",
-    "path":"folders/obj_itens/obj_residuos.yy",
+    "name":"obj_itens",
+    "path":"folders/obj_itens.yy",
   },
-  "parentObjectId":{"name":"obj_residuo_pai","path":"objects/obj_residuo_pai/obj_residuo_pai.yy",},
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_maca",
-    "path":"sprites/spr_maca/spr_maca.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

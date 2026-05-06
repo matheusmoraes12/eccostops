@@ -9,7 +9,7 @@
     "name":"obj_residuos",
     "path":"folders/obj_itens/obj_residuos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{"name":"obj_residuo_pai","path":"objects/obj_residuo_pai/obj_residuo_pai.yy",},
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

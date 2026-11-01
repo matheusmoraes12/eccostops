@@ -41,7 +41,6 @@ O jogo roda em computadores simples. Na atividade foi usado um notebook com Wind
 
 Matheus Cândido Moraes e Matheus Tarcio Oliveira da Penha. Orientador: Dadilton Bastos Melo.
 
-[acrescentar aqui o nome do Jefferson Sampaio e a função dele, se o orientador confirmar]
 
 ## Licença
 

@@ -28,9 +28,10 @@ O jogo roda em computadores simples. Na atividade foi usado um notebook com Wind
 
 ## Como gerar o executável para Windows
 
-1. Com o projeto aberto, vá ao menu **Build > Create Executable**.
-2. Escolha o destino **Windows** e uma pasta de saída.
-3. Copie a pasta gerada para o computador onde o jogo será usado e abra o arquivo `.exe`. Não é necessário instalar o GameMaker nesse computador.
+1. É necessário entrar com uma conta gratuita do GameMaker (a primeira vez que você gerar o executável, ele pede o login).
+2. Com o projeto aberto, vá ao menu **Build > Create Executable** e escolha **Windows**.
+3. Ao terminar, será criada uma pasta com três arquivos: `EccoStops.exe`, `data.win` e `options.ini`.
+4. Copie a pasta inteira (os três arquivos juntos) para o computador onde o jogo será usado e abra o `EccoStops.exe`. Não é necessário instalar o GameMaker nesse computador.
 
 ## Estrutura do repositório
 
